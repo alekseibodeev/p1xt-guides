@@ -333,18 +333,18 @@ Yeah, yeah, yeah, you can find a billion people on the internet who will tell yo
 
 Note: As I said above, don't stress about math. Should you desire to leverage a greater understanding of math to improve your logical problem solving ability, the following sequence will serve you well. Please feel free to skip (or test out of) any topics you already know well.
 
-| Courses                                                                               | Status | Evidence |
-| :------------------------------------------------------------------------------------ | :----: | :------: |
-| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             |        |          |
-| [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           |        |          |
-| [Algebra I](https://www.khanacademy.org/math/algebra)                                 |        |          |
-| [Geometry](https://www.khanacademy.org/math/geometry)                                 |        |          |
-| [Algebra II](https://www.khanacademy.org/math/algebra2)                               |        |          |
-| [Trigonometry](https://www.khanacademy.org/math/trigonometry)                         |        |          |
-| [Precalculus](https://www.khanacademy.org/math/precalculus)                           |        |          |
-| [Calculus I](https://www.khanacademy.org/math/calculus-1)                             |        |          |
-| [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) |        |          |
-| [Calculus II](https://www.khanacademy.org/math/calculus-2)                            |        |          |
-| [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)     |        |          |
-| [Differential Equations](https://www.khanacademy.org/math/differential-equations)     |        |          |
-| [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)                     |        |          |
+| Courses                                                                               | Status                       |
+| :------------------------------------------------------------------------------------ | :--------------------------: |
+| [Arithmetic](https://www.khanacademy.org/math/arithmetic)                             | :white_check_mark: Completed |
+| [Pre-algebra](https://www.khanacademy.org/math/pre-algebra)                           | :white_check_mark: Completed |
+| [Algebra I](https://www.khanacademy.org/math/algebra)                                 |        |
+| [Geometry](https://www.khanacademy.org/math/geometry)                                 |        |
+| [Algebra II](https://www.khanacademy.org/math/algebra2)                               |        |
+| [Trigonometry](https://www.khanacademy.org/math/trigonometry)                         |        |
+| [Precalculus](https://www.khanacademy.org/math/precalculus)                           |        |
+| [Calculus I](https://www.khanacademy.org/math/calculus-1)                             |        |
+| [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) |        |
+| [Calculus II](https://www.khanacademy.org/math/calculus-2)                            |        |
+| [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)     |        |
+| [Differential Equations](https://www.khanacademy.org/math/differential-equations)     |        |
+| [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)                     |        |
